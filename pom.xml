@@ -15,6 +15,8 @@
       Eplicitly declag e source codng the fng msg: [WARNING] Using platform encoding
       (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
     -->
+ <maven.compiler.source>1.8</maven.compiler.source>
+ <maven.compiler.target>1.8</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
